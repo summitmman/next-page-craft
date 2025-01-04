@@ -1,0 +1,1 @@
+export const HANDLE_REGEX_GLOBAL = new RegExp(/\{([^\{\}]+)\}/gm);
